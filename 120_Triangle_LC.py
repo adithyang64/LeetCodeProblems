@@ -18,3 +18,5 @@ class Solution(object):
     # 3 4
     # 6 5 7
     # 4 1 8 7
+    
+    # https://leetcode.com/problems/triangle/
